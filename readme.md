@@ -2,7 +2,8 @@
 
 In this tutorial, we'll create a simple 2D volleyball game from scratch using the SplashKit game development framework. The game will feature two players, a ball, and an AI-controlled opponent. We'll walk through the code for the game, explaining each component and its functionality.
 
-This is the [video](https://video.deakin.edu.au/media/t/1_1nqa2z4b) of the game running. The player on the left side is playable and on the right side is AI controlled.
+This is the [video](https://video.deakin.edu.au/media/t/1_1nqa2z4b) of the game running. The player on the left side is playable and on the right side is AI-controlled.
+![](https://github.com/alireza-montazeri/2D-Volleyball/blob/master/Gameplay.gif)
 
 ### Prerequisites
 
