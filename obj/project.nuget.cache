@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XYcgiypiJz7aTQPCV9aaizB2lDnSUj55X2gtjd/qD8k/8OD67BF6OrevojBPkVWhxoUc24M6IqCvR40XFaFGSg==",
+  "success": true,
+  "projectFilePath": "E:\\Courses\\Master-Deakin\\ObjectOriented\\Volley2DGame\\Volley2DGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

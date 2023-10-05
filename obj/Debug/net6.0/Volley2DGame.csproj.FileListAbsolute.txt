@@ -1,0 +1,15 @@
+E:\Courses\Master-Deakin\ObjectOriented\Volley2DGame\bin\Debug\net6.0\Volley2DGame.exe
+E:\Courses\Master-Deakin\ObjectOriented\Volley2DGame\bin\Debug\net6.0\Volley2DGame.deps.json
+E:\Courses\Master-Deakin\ObjectOriented\Volley2DGame\bin\Debug\net6.0\Volley2DGame.runtimeconfig.json
+E:\Courses\Master-Deakin\ObjectOriented\Volley2DGame\bin\Debug\net6.0\Volley2DGame.dll
+E:\Courses\Master-Deakin\ObjectOriented\Volley2DGame\bin\Debug\net6.0\Volley2DGame.pdb
+E:\Courses\Master-Deakin\ObjectOriented\Volley2DGame\obj\Debug\net6.0\Volley2DGame.csproj.AssemblyReference.cache
+E:\Courses\Master-Deakin\ObjectOriented\Volley2DGame\obj\Debug\net6.0\Volley2DGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Master-Deakin\ObjectOriented\Volley2DGame\obj\Debug\net6.0\Volley2DGame.AssemblyInfoInputs.cache
+E:\Courses\Master-Deakin\ObjectOriented\Volley2DGame\obj\Debug\net6.0\Volley2DGame.AssemblyInfo.cs
+E:\Courses\Master-Deakin\ObjectOriented\Volley2DGame\obj\Debug\net6.0\Volley2DGame.csproj.CoreCompileInputs.cache
+E:\Courses\Master-Deakin\ObjectOriented\Volley2DGame\obj\Debug\net6.0\Volley2DGame.dll
+E:\Courses\Master-Deakin\ObjectOriented\Volley2DGame\obj\Debug\net6.0\refint\Volley2DGame.dll
+E:\Courses\Master-Deakin\ObjectOriented\Volley2DGame\obj\Debug\net6.0\Volley2DGame.pdb
+E:\Courses\Master-Deakin\ObjectOriented\Volley2DGame\obj\Debug\net6.0\Volley2DGame.genruntimeconfig.cache
+E:\Courses\Master-Deakin\ObjectOriented\Volley2DGame\obj\Debug\net6.0\ref\Volley2DGame.dll
